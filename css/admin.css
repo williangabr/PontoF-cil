@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F8FAFC;
+    margin-left: 20px;
+}
+
+header{
+    font-size: 18px;
+    color: #0F172A;
+}
+.outra-cor{
+    color: #0000ff;
+}
+
+
+/*Parte da section do funcionario*/
+.h1-principal{
+    margin-bottom: -16px;
+}
+
+.button-Cadastrar{
+    border-style: none;
+    background-color: #2563EB;
+    color: #FFFFFF;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+}
+
+.button-Cadastrar:hover{
+     background-color: #0000ff;
+}
