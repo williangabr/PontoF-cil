@@ -13,3 +13,12 @@ O projeto permite visualizar o horário atual e registrar os horários de entrad
 ## Objetivo
 
 Projeto desenvolvido como parte dos meus estudos de JavaScript, com foco em manipulação do DOM, eventos, datas e criação dinâmica de elementos na página.
+
+## 🚀 Próximos passos
+
+- [ ] Fazer login funcionar
+- [ ] Redirecionar usuário para o sistema
+- [ ] Criar área administrativa
+- [ ] Permitir cadastro de funcionários
+- [ ] Criar sistema de autenticação
+- [ ] Adicionar banco de dados
